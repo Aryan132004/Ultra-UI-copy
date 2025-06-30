@@ -17,15 +17,17 @@ A fully responsive and modern download page inspired by [UltraEdit](https://www.
 
 ---
 
-## 📸 Preview
+## 📸 UI Preview & Comparison
 
-### My Version – Built from Scratch with HTML & CSS
+### 🔧 My Version – Built from Scratch with HTML & CSS
 
-### ![Screenshot of Project](./preview/My-Demo.png "This is my Copy of the original Website") `<!-- Add screenshot of your project -->`
+![My Implementation](./preview/My-Demo.png "Responsive clone of UltraEdit download page")
 
-### Reference – Original UltraEdit UI
+---
 
-![Screenshot of Project](./preview/Original.png)
+### 🎯 Reference – Original UltraEdit Website Design
+
+![Original UltraEdit](./preview/Original.png "Official UltraEdit site screenshot for comparison")
 
 ---
 
