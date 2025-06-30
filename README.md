@@ -48,9 +48,10 @@ A fully responsive and modern download page inspired by [UltraEdit](https://www.
 📁 project-root
 ├── index.html
 ├── style.css
-├── /images
+├── /Images
 │   └── small_icon.png
-└── preview
+│   └── icon.png
+└── Preview
     └── My-Demo.png
     └── Original.png
 ```
@@ -82,7 +83,7 @@ A fully responsive and modern download page inspired by [UltraEdit](https://www.
 
 ## 🔗 Live Demo
 
-[👉 View it on Linkedin Pages](https://yourusername.github.io/ultraedit-download-page)
+[👉 View it on Linkedin Pages](https://www.linkedin.com/posts/aryanmalik2004_webdevjourney-miniproject-htmlcss-activity-7345509893186994177-y5G6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADikt0IB0_f8pY6_Ja7wTp0G1XZ27avnNu0)
 
 ---
 
