@@ -21,13 +21,13 @@ A fully responsive and modern download page inspired by [UltraEdit](https://www.
 
 ### 🔧 My Version – Built from Scratch with HTML & CSS
 
-![My Implementation](./preview/My-Demo.png "Responsive clone of UltraEdit download page")
+![My Implementation](/preview/My-Demo.png "Responsive clone of UltraEdit download page")
 
 ---
 
 ### 🎯 Reference – Original UltraEdit Website Design
 
-![Original UltraEdit](./preview/Original.png "Official UltraEdit site screenshot for comparison")
+![Original UltraEdit](/preview/Original.png "Official UltraEdit site screenshot for comparison")
 
 ---
 
